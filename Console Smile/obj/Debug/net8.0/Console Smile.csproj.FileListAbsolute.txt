@@ -1,0 +1,14 @@
+D:\Проекты\Console Smile\bin\Debug\net8.0\Console Smile.exe
+D:\Проекты\Console Smile\bin\Debug\net8.0\Console Smile.deps.json
+D:\Проекты\Console Smile\bin\Debug\net8.0\Console Smile.runtimeconfig.json
+D:\Проекты\Console Smile\bin\Debug\net8.0\Console Smile.dll
+D:\Проекты\Console Smile\bin\Debug\net8.0\Console Smile.pdb
+D:\Проекты\Console Smile\obj\Debug\net8.0\Console Smile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\Console Smile\obj\Debug\net8.0\Console Smile.AssemblyInfoInputs.cache
+D:\Проекты\Console Smile\obj\Debug\net8.0\Console Smile.AssemblyInfo.cs
+D:\Проекты\Console Smile\obj\Debug\net8.0\Console Smile.csproj.CoreCompileInputs.cache
+D:\Проекты\Console Smile\obj\Debug\net8.0\Console Smile.dll
+D:\Проекты\Console Smile\obj\Debug\net8.0\refint\Console Smile.dll
+D:\Проекты\Console Smile\obj\Debug\net8.0\Console Smile.pdb
+D:\Проекты\Console Smile\obj\Debug\net8.0\Console Smile.genruntimeconfig.cache
+D:\Проекты\Console Smile\obj\Debug\net8.0\ref\Console Smile.dll
